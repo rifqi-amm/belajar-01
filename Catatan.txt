@@ -1,3 +1,3 @@
-- coba github
-- coba kembali guthub
+- mengingat kembali github
 - berhasil membuat file
+- mencoba commit dan delate commit
