@@ -1,2 +1,2 @@
--belajr kembali
--mulai
+- ulangin belajar github
+- mencoba commit dan branch
