@@ -1,3 +1,5 @@
-- mengingat kembali github
+- ulangin belajar github
+- mencoba commit dan branch
 - berhasil membuat file
 - mencoba commit dan delate commit
+
